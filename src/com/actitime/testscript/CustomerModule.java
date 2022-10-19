@@ -18,3 +18,4 @@ public class CustomerModule {
 		Reporter.log("deleteCustomer", true);
 	}
 }
+//this is the sample test statement
